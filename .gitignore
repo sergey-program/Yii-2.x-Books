@@ -1,0 +1,12 @@
+# phpstorm project files
+.idea
+
+# disable environment
+.test
+.dev
+.prod
+
+# webmaster approvement
+google*.html
+yandex*.html
+Bing*.xml
